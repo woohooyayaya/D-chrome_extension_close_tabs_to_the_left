@@ -1,1 +1,1 @@
-# D-chrome_extension_close_tabs_to_the_left
+This extension closes tabs to the left of the current tab
